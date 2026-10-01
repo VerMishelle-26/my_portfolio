@@ -18,4 +18,4 @@
 
 ## Контакты
 - GitHub: [@VerMishelle-26](https://github.com/VerMishelle-26)
-- Email: kiramejs12@gmail.com
+
